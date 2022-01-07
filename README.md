@@ -1,5 +1,4 @@
-# jogo-de-naves
- Construindo meu primeiro jogo de naves
+# Construindo jogo de naves
 
 Projeto realizado com o instrutor Denilson Bonatti.
 
