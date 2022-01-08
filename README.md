@@ -8,5 +8,8 @@ Foi utilizando o CSS3 para animação do jogo.
 
 Usando framework JQuery collision, para as animações de colisões entre os personagens do jogo.
 
+Para o som do jogo foi utilizado Javascript puro.
+
+
 
 
