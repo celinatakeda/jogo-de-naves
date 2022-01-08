@@ -10,6 +10,10 @@ Usando framework JQuery collision, para as animações de colisões entre os per
 
 Para o som do jogo foi utilizado Javascript puro.
 
+<<<<<<< HEAD
 
 
 
+=======
+![img](https://user-images.githubusercontent.com/82118386/148648199-03740440-0c5e-4fd5-909e-c4ede6469bdd.png)
+>>>>>>> 1cb12582e109d122d1683ccdfed0ccc9b5807522
