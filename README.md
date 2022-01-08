@@ -13,5 +13,3 @@ Para o som do jogo foi utilizado Javascript puro.
 
 
 
-
-
